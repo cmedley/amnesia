@@ -7,7 +7,7 @@ It provides a simplified table and database definition with some macros and
 allows you to use the nice `Enum` functions on tables by implementing the
 `Enum.Iterator` protocol.
 
-Everything is documented and spec'd, even the unspecced and undocumented parts
+Everything is documented and specced, even the unspecced and undocumented parts
 of mnesia that have been wrapped.
 
 The documentation often refers to mnesia functions, I strongly suggest you read
